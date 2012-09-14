@@ -1,0 +1,33 @@
+{
+	"name": "grunt-git-log",
+	"description": "Output commit messages from git log between given dates.",
+	"version": "1.0.0",
+	"homepage": "https://github.com/jeremyjannotta/grunt-git-log",
+	"author": {
+		"name": "Jeremy Jannotta",
+		"email": "jeremy.jannotta@gmail.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/jeremyjannotta/grunt-git-log.git"
+	},
+	"bugs": {
+		"url": "https://github.com/jeremyjannotta/grunt-git-log/issues"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://github.com/jeremyjannotta/grunt-git-log/blob/master/LICENSE-MIT"
+		}
+	],
+	"main": "grunt.js",
+	"engines": {
+		"node": "*"
+	},
+	"dependencies": {
+		"grunt": "~0.3.11"
+	},
+	"keywords": [
+		"gruntplugin"
+	]
+}
